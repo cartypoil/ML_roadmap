@@ -7,5 +7,6 @@
 ## Прогресс обучения
 
 ### Basic Syntax
-- variables_and_datatypes.py
-- data_structures.py
+- variables_and_datatypes.py - переменные и типы данных
+- data_structures.py - структуры данных
+- loops.py - циклы
