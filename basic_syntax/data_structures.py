@@ -55,7 +55,7 @@ animals_set = set(animals) # Приведение к множеству(удал
 
 stop_char = {'a', 'b', 'c', 'd', 'e'}
 print(f'Множество: {animals_set}')
-print(f'Мнгновенная проверка a в stop_char:', 'a' in stop_char, '\n')
+print(f'Мгновенная проверка a в stop_char:', 'a' in stop_char, '\n')
 
 # Операции с множествами
 skills = {'python', 'git'}
