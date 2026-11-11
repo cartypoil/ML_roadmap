@@ -11,4 +11,5 @@
 - data_structures.py - структуры данных
 - loops.py - циклы
 - conditionals.py - условные конструкции
-- - exceptions.py - обработка ошибок 
+- exceptions.py - обработка ошибок 
+- functions.py - функции
