@@ -10,4 +10,5 @@
 - variables_and_datatypes.py - переменные и типы данных
 - data_structures.py - структуры данных
 - loops.py - циклы
-- conditionals.py — условные конструкции
+- conditionals.py - условные конструкции
+- - exceptions.py - обработка ошибок 
