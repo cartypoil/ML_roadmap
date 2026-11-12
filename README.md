@@ -13,3 +13,6 @@
 - conditionals.py - условные конструкции
 - exceptions.py - обработка ошибок 
 - functions.py - функции
+
+### Mini Projects
+- basic_syntax_project/data_cleaner.py - очистка сырых данных и расчет статистики
